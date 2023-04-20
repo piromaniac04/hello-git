@@ -1,1 +1,1 @@
-Print("Piro es el mejor")
+print("Piro es el mejor")
